@@ -14,11 +14,11 @@
 }
 @font-face {
 	font-family: 'Helvetica Neue';
-	src: url('../fonts/helvetica/HelveticaNeueLTStd-Lt.eot?') format('eot'), 
-	    /* url('../fonts/helvetica/HelveticaNeueLTStd-Lt.otf')  format('opentype'),*/
-	     url('../fonts/helvetica/HelveticaNeueLTStd-Lt.woff') format('woff'), 
-	     url('../fonts/helvetica/HelveticaNeueLTStd-Lt.ttf')  format('truetype'),
-	     url('../fonts/helvetica/HelveticaNeueLTStd-Lt.svg#HelveticaNeueLTStd-Lt') format('svg');
+	src: url('../fonts/HelveticaNeueLTStd-Lt.eot?') format('eot'), 
+	    /* url('../fonts/HelveticaNeueLTStd-Lt.otf')  format('opentype'),*/
+	     url('../fonts/HelveticaNeueLTStd-Lt.woff') format('woff'), 
+	     url('../fonts/HelveticaNeueLTStd-Lt.ttf')  format('truetype'),
+	     url('../fonts/HelveticaNeueLTStd-Lt.svg#HelveticaNeueLTStd-Lt') format('svg');
 }
 
 h1{
