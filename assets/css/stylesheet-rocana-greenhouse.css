@@ -92,7 +92,7 @@ margin-top: -4px;
 
 
 #content p {
-font-family: "nexa_lightregular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 28px;
   font-size: 20px;
     margin-bottom: 20px;
@@ -100,7 +100,7 @@ font-family: "nexa_lightregular", "Helvetica Neue", Helvetica, Arial, sans-serif
 }
 
 ul, ol {
-font-family: "nexa_lightregular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin-top: 0;
   margin-bottom: 10px;
     font-size: 20px;
