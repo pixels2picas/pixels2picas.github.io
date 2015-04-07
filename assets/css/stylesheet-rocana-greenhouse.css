@@ -62,40 +62,42 @@ text-decoration: underline;
 
 }
 
-.opening a {
-  font-family: "nexa_lightregular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+div.opening a {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 font-size: 20px;
 color: #549cbd;
 text-decoration: none;
 }
-.opening a:hover{
-  font-family: "nexa_lightregular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+div.opening a:hover{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 font-size: 20px;
 color: #549cbd;
 text-decoration: underline;
+
 
 }
 span.location{
   font-family: "nexa_lightregular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 12px;
   color: #2C3437;
-
+font-weight: bold;
 }
 
 span.company-name{
 font-family: "nexa_lightregular", "Helvetica Neue", Helvetica, Arial, sans-serif;
 font-size: 20px;
 color: #2C3437;
-
-
-
-
+font-weight: bold;
+}
+#app_body #header a{
+font-weight: bold;
 }
 .location{
   font-family: "nexa_lightregular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 12px;
   color: #2C3437;
 margin-top: -4px;
+font-weight: bold;
 }
 
 
